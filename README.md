@@ -434,3 +434,8 @@ Note that ``Q_PLUGIN_CONF_FILE`` is unique in that it is assumed to *NOT*
 start with a ``/`` (slash) character.  A slash will need to be added:
 
     [[post-config|/$Q_PLUGIN_CONF_FILE]]
+
+
+** Note: this is my version of devstack which have some modifications for BOSS os and its for my personal work
+
+Forks are welcomed **
